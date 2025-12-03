@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Persona.Api/Persona.Api.csproj" />
+  <Project Path="Persona.AppHost/Persona.AppHost.csproj" />
+  <Project Path="Persona.Application/Persona.Application.csproj" Id="513e0814-f4bc-42dc-b9a0-48fb5572db42" />
+  <Project Path="Persona.Domain/Persona.Domain.csproj" />
+  <Project Path="Persona.Infrastructure/Persona.Infrastructure.csproj" Id="50f5be3d-646e-4f17-9a55-5adcb8fd44f7" />
+  <Project Path="Persona.ServiceDefaults/Persona.ServiceDefaults.csproj" />
+</Solution>
